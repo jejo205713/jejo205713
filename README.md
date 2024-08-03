@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JEJO.J</h1>
+<h1 align="center">Hi 👋, I'm JEJO.J </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Community;Programming%20Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45" />
@@ -27,9 +27,6 @@
 - 🌱 I’m currently working on cybersecurity...!
 
 - 📫 How to reach me [**jejo205713@gmail.com**](mailto:jejo205713@gmail.com)
-- <a href="https://www.instagram.com/_jejo_j">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 
 ---
 
