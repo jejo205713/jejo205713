@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JEJO.J </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Open-Source%20Community;Programming%20Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Security-Analyst%20from%20India;&center=true&width=570&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;Information%20is%20wealth🧑🏾‍💻;I%20am%20a%20Security-Analyst;&center=true&width=570&height=45" />
 </p>
 
 <p align="center">
