@@ -22,9 +22,9 @@
 
 - 🏫 I'm studying in SKCT College, India.
 
-- 🎓 I'm in B.Tech Cybersecurity 2nd year.
+- 🎓 I'm in B.E Cybersecurity 2nd year.
 
-- 🌱 I’m currently working on cybersecurity...!
+- 🌱 I’m currently working on Docking & Blockchain
 
 - 📫 How to reach me [**jejo205713@gmail.com**](mailto:jejo205713@gmail.com)
 
