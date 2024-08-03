@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/priyanshu-t">
+  <a href="https://www.linkedin.com/in/jejo-j-843862287/">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://blank-09.github.io/">
+  <a href="https://github.com/jejo205713">
     <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
-  <a href="https://github.com/blank-09">
+  <a href="https://github.com/jejo205713">
     <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=Blank-09&style=for-the-badge"/>
   </a>
 </p>
@@ -40,7 +40,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
