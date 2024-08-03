@@ -20,7 +20,7 @@
 
 ## 💫 **About Me:**
 
-- 🏫 I'm studying in SKCT College, India.
+- 🏫 I'm studying in SKCT College '2027 , India.
 
 - 🎓 I'm in B.E Cybersecurity 2nd year.
 
