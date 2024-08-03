@@ -27,6 +27,9 @@
 - 🌱 I’m currently working on cybersecurity...!
 
 - 📫 How to reach me [**jejo205713@gmail.com**](mailto:jejo205713@gmail.com)
+- <a href="https://www.instagram.com/_jejo_j">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
 ---
 
