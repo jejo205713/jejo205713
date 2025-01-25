@@ -1,13 +1,15 @@
 JEJO.J
 CONTACT INFORMATION
-    • Email: jejo205713@gmail.com
-    • LinkedIn: www.linkedin.com/in/jejo-j/
-    • GitHub: github.com/jejo205713/
-    • Phone: (8248401201)
-    • Address: Dno.58, Nethajinagar, Nanjundapuram Road, Coimbatore-36
+	• Email: jejo205713@gmail.com
+	• LinkedIn: www.linkedin.com/in/jejo-j/
+	• GitHub: github.com/jejo205713/
+	• Phone: (8248401201)
+	• Address: Dno.58, Nethajinagar, Nanjundapuram Road, Coimbatore-36
 
 CAREER OBJECTIVE
-A dedicated and accomplished 19-year-old pursuing a Bachelor of Engineering (BE) in Computer Science and Engineering (CSE) with a specialization in Cybersecurity at Sri Krishna College of Technology, poised to contribute expertise in Linux system administration, penetration testing, and networking. Actively seeking opportunities to apply these skills in a professional setting.
+A dedicated and accomplished 19-year-old pursuing a Bachelor of Engineering (BE) in Computer Science and Engineering (CSE) with a specialization in Cybersecurity
+at Sri Krishna College of Technology, poised to contribute expertise in Linux system administration, penetration testing, and networking.
+Actively seeking opportunities to apply these skills in a professional setting.
 
 EDUCATION
 Bachelor of Engineering (BE) in Computer Science and Engineering (CSE) - Cybersecurity Specialization
@@ -15,77 +17,89 @@ Sri Krishna College of Technology, Coimbatore, Tamil Nadu
 Expected Graduation: April 2027
 
 High School Diploma
-Carmel Garden Matriculation Higher Secondary School, Coimbatore, Tamil Nadu
+Carmel Garden Matriculation Higher Secondary School,
+Coimbatore, TamilNadu
 Graduation Year: 2023
 
 PROFESSIONAL EXPERIENCE
 
-COMPUTER KADAI - BUSINESS OWNER
-Computer Kadai, Coimbatore, Tamil Nadu
+DEDCELL SOLUTION  - BUSINESS OWNER
+Coimbatore, Tamil Nadu
 (Current Year - Present)
 
-    Successfully operating "Computer Kadai," a computer shop business focused on installing operating systems and recovering deleted data for clients.
-    Demonstrating proficiency and skills in system administration to meet client requirements.
-    Providing excellent customer service and ensuring client satisfaction with the delivered solutions.
+	Successfully operating "DEDCELL SOLUTION" a computer shop business focused on installing operating systems and recovering deleted data for clients.
+	Demonstrating proficiency and skills in system administration to meet client requirements.
+	Providing excellent customer service and ensuring client satisfaction with the delivered solutions.
 
 PENETRATION TESTER INTERN
 Jagex Limited, Cambridge, England
 (June 2023 - July 2023)
 
-    Executed meticulous penetration tests to identify and address vulnerabilities in gaming systems.
-    Collaborated seamlessly with development teams to enhance the overall security posture of gaming platforms.
-    Delivered articulate presentations of findings and recommendations to the management team.
+•Executed meticulous penetration tests to identify and address vulnerabilities in gaming systems.
+•Delivered articulate presentations of findings and recommendations to the management team.
 
-CYBERSECURITY INTERN
+CYBERSECURITY ANALYST INTERN
 Techbyheart, Trivandrum, Kerala
 (December2024 - January 2025)
 
    Cybersecurity internship at Techbyheart, a renowned IT company specializing in cybersecurity, web development, and software solutions.
-    Gained hands-on experience with tools and techniques in ethical hacking and cybersecurity, covering topics like:
-        •Website Attacks and OWASP Top 10
-        •Vulnerability Analysis using tools like Nessus and Nikto
-        •Metasploit Framework
-        •Splunk and Burp Suite
-        •Bug Bounty & Penetration Testing (VAPT)
-        •Social Engineering and Phishing Prevention
-    Acquired practical knowledge of industry standards and best practices, enhancing expertise in real-world cybersecurity challenges.
+	Gained hands-on experience with tools and techniques in ethical hacking and cybersecurity, covering topics like:
+    	•Website Attacks and OWASP Top 10
+    	•Vulnerability Analysis using tools like Nessus and Nikto
+    	•Metasploit Framework
+    	•Splunk and Burp Suite
+    	•Bug Bounty & Penetration Testing (VAPT)
+    	•Social Engineering and Phishing Prevention
 
+	Acquired practical knowledge of industry standards and best practices, enhancing expertise in real-world cybersecurity challenges.
 PROJECT EXPERIENCE
 GITHUB PROJECTS AND OPEN SOURCE CONTRIBUTIONS
-    • Developed and contributed to multiple projects on GitHub (github.com/jejo205713/), showcasing proficiency in C++, Python, Bash scripting, HTML, CSS, C, and SQL.
-    • Actively participated in open-source projects, demonstrating collaboration and teamwork within the developer community.
+	• Developed and contributed to multiple projects on GitHub (github.com/jejo205713/), showcasing proficiency in C++, Python, Bash.
+
+NOTABLE PROJECTS :  
+
+SQL Injection Testing Script
+Automated script to identify SQL injection vulnerabilities in web applications.
+Submits diverse payloads, customizable target URLs, and logs responses for analysis.
+Web-Prowler: Vulnerability Scanner
+Advanced tool for system vulnerability scanning.
+Nmap-based port scanning, risk assessment, exploit detection, and detailed reporting.
+Cipherwall & Blackreaper: DoS Protection
+Comprehensive solution to prevent and mitigate DoS attacks.
+Cipherwall: Server-side firewall for traffic analysis and attack prevention.
+Blackreaper: Post-attack tool for isolation, vulnerability fixes, and service recovery.
+CenSecure: IoT Security Gateway
+Open-source security solution for IoT devices using Raspberry Pi.
+Features traffic monitoring, port scanning, log analysis, firewall management, and real-time alerts.
 
 CYBERSECURITY TOOLS
-    • Proficient in using Burp Suite, Metasploit, Wireshark, Nessus Scanning Tool, and various other cybersecurity tools for penetration testing and vulnerability assessment.
+	• Proficient in using Burp Suite, Metasploit, Wireshark, Nessus Scanning Tool, and various other cybersecurity tools for penetration testing and vulnerability assessment.
 
 CERTIFICATIONS
 
-    • Foundations of Cybersecurity - GOOGLE
-    • Mastery at Linux filesystem - COURSERA
-    • Junior Certified Ethical Hacker (JCEH)
-
-AI-ML BOT PROJECT (PYTHON)
-    • Designed and implemented a functional AI-ML bot using Python, showcasing skills in artificial intelligence and machine learning.
-    • [Specify any unique features or achievements of the bot.]
+	• Foundations of Cybersecurity - GOOGLE
+	• Mastery at Linux filesystem - COURSERA
+	• Junior Certified Ethical Hacker (JCEH)
 
 LEADERSHIP EXPERIENCE
 COLLEGE PRESIDENT
+
 Sri Krishna College of Technology, Coimbatore, Tamil Nadu
 (Current Year - Present)
-    • Steering initiatives to elevate student engagement and campus life.
-    • Representing the student body adeptly in meetings with faculty and administration.
-    • Orchestrating and overseeing diverse events to foster a sense of community among students.
+	• Steering initiatives to elevate student engagement and campus life.
+	• Representing the student body adeptly in meetings with faculty and administration.
+	• Orchestrating and overseeing diverse events to foster a sense of community among students.
 
 SCHOOL PUPIL LEADER
 Carmel Garden Matriculation Higher Secondary School, Coimbatore, Tamil Nadu
 (Year - Year)
-    • Elected to represent the student body, facilitating communication between students and the school administration.
-    • Organized and participated actively in school events, demonstrating leadership and organizational skills.
+	• Elected to represent the student body, facilitating communication between students and the school administration.
+	• Organized and participated actively in school events, demonstrating leadership and organizational skills.
 
 ADDITIONAL SKILLS
-    • Exceptional communication and interpersonal skills.
-    • Strong problem-solving abilities.
-    • Rapid learner with a passion for staying abreast of the latest developments in cybersecurity.
+	• Exceptional communication and interpersonal skills.
+	• Strong problem-solving abilities.
+	• Rapid learner with a passion for staying abreast of the latest developments in cybersecurity.
 
 REFERENCES
 Available upon request.
