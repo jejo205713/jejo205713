@@ -28,7 +28,11 @@ Coimbatore, Tamil Nadu
 (Current Year - Present)
 
 	Successfully operating "DEDCELL SOLUTION" a computer shop business focused on installing operating systems and recovering deleted data for clients.
-	Demonstrating proficiency and skills in system administration to meet client requirements.
+	Gained proficiency in Linux system administration, specializing in Debian, Kali Linux, Red Hat, and CentOS distributions.
+	Secured and optimized servers by applying advanced hardening techniques and maintaining robust configurations.
+	Managed and monitored network firewalls, logs, and implemented best practices to ensure server security.
+	Applied skills in securing Linux-based systems to prevent vulnerabilities and enhance overall system reliability.
+	Strengthened expertise in automating tasks, managing user permissions, and safeguarding sensitive data on Linux servers.
 	Providing excellent customer service and ensuring client satisfaction with the delivered solutions.
 
 PENETRATION TESTER INTERN
