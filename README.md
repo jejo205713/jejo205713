@@ -22,9 +22,9 @@
 
 - 🏫 I'm studying in SKCT'2027 , India.
 
-- 🎓 I'm in B.E Cybersecurity 2nd year.
+- 🎓 I'm in B.E Cybersecurity 3rd year.
 
-- 🌱 I’m currently working on Docking & Blockchain
+- 🌱 I’m working on Cyber-Physical Systems, specializing in secure IoT integration, AI-driven automation, and blockchain-based trust solutions.
 
 - 📫 How to reach me [**jejo205713@gmail.com**](mailto:jejo205713@gmail.com)
 
